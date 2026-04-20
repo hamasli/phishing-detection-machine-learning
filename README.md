@@ -224,15 +224,14 @@ The system achieves:
 📁 phishing-detection-ml/  
 ┣ 📜 README.md  
 ┣ 📜 phishing_detection.ipynb  
-┣ 📜 dataset.arff  
-┣ 📜 requirements.txt  
+┣ 📜 UCI Dataset
+┣ 📜 Project Slides  
 
 ---
 
 # ▶️ How to Run
 
-pip install -r requirements.txt  
-jupyter notebook  
+Open notebook in the google colab and put the dataset folder in the same repository.
 
 ---
 
